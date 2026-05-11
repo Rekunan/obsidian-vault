@@ -9,41 +9,41 @@
 			- some with more than others
 	- area tournament:
 		- November 9, 2019 (Sat) – January 12, 2020 (Sun)
-		- Results:![[Pasted image 20260511053940.png]]
+		- Results:![kop2019q.png](./kop2019q.png)
 	- final tournament/knockout stage:
-		- Results:![[Pasted image 20260511055904.png]]
+		- Results:![kop2019b.png](./kop2019b.png)
 		- Valsqotch 3rd song
 			- lowest scores of whole bracket
 		- yoshi loss (would've won w/o surprise)
 - KOP2020:
 	- yay chuni & geki
 	- knockout stage:
-		- Results: ![[Pasted image 20260511060057.png]]
+		- Results: ![kop2020b.png](./kop2020b.png)
 		- no sightread/surprise
 		- start of yoshi 5winstreak
 - KOP3rd:
 	- qual:
 		- 3 songs
 		- top8
-		- Results:![[Pasted image 20260511060314.png]]
+		- Results:![kop3rdq.png](./kop3rdq.png)
 		- everyone 303 lmao
 		- date tiebreaker
 	- knockout:
-		- ![[Pasted image 20260511060546.png]]
-		- ![[Pasted image 20260511060621.png]]
-		- ![[Pasted image 20260511060507.png]]
+		- ![kop3rdb1.png](./kop3rdb1.png)
+		- ![kop3rdb2.png](./kop3rdb2.png)
+		- ![kop3rdb3.png](./kop3rdb3.png)
 		- gigantomahkia 3rd song
 			- scores not as bad as valsqotch
 		- yoshi wins all 3
 - KOP4th:
 	- qual:
 		- 14+'s yay
-		- ![[Pasted image 20260511060806.png]]
+		- ![kop4thq.png](./kop4thq.png)
 		- yoshi only 303
 	- knockout:
-		- ![[Pasted image 20260511060851.png]]
-		- ![[Pasted image 20260511060904.png]]
-		- ![[Pasted image 20260511060913.png]]
+		- ![kop4thb1.png](./kop4thb1.png)
+		- ![kop4thb2.png](./kop4thb2.png)
+		- ![kop4thb3.png](./kop4thb3.png)
 		- virtus 3rd song
 			- hiro!!!
 			- hello easy 14+
@@ -52,12 +52,12 @@
 - KOP5th:
 	- qual:
 		- all 14+'s
-		- ![[Pasted image 20260511061016.png]]
+		- ![kop5thq.png](./kop5thq.png)
 		- no 303, but yoshi still 1st
 	- knockout:
-		- ![[Pasted image 20260511061044.png]]
-		- ![[Pasted image 20260511061052.png]]
-		- ![[Pasted image 20260511061058.png]]
+		- ![kop5thb1.png](./kop5thb1.png)
+		- ![kop5thb2.png](./kop5thb2.png)
+		- ![kop5thb3.png](./kop5thb3.png)
 		- remiria & yoshi both "picked" latent (doubt)
 		- staff pick panpara
 		- tsunagite 3rd song
@@ -69,13 +69,13 @@
 			- similar to kop2019
 - KOP6th:
 	- qual:
-		- ![[Pasted image 20260511061500.png]]
+		- ![kop6thq.png](./kop6thq.png)
 		- Divide et impera!
 			- alea sequal (maybe was supposed to be last year's?)
 	- bracket:
-		- ![[Pasted image 20260511061545.png]]
-		- ![[Pasted image 20260511061552.png]]
-		- ![[Pasted image 20260511061559.png]]
+		- ![kop6thb1.png](./kop6thb1.png)
+		- ![kop6thb2.png](./kop6thb2.png)
+		- ![kop6thb3.png](./kop6thb3.png)
 		- chuten 3rd song
 			- kdx song lole
 			- low bpm gg
@@ -84,13 +84,13 @@
 		- yoshi wins all 3 just like kop3rd
 - KOP7th:
 	- qual:
-		- ![[Pasted image 20260511061950.png]]
+		- ![kop7thq.png](./kop7thq.png)
 		- first 303's since kop4th, which had 2 14+'s and 1 14
 		- remi 1st again
 	- bracket:
-		- ![[Pasted image 20260511062056.png]]
-		- ![[Pasted image 20260511062127.png]]
-		- ![[Pasted image 20260511062132.png]]
+		- ![kop7thb1.png](./kop7thb1.png)
+		- ![kop7thb2.png](./kop7thb2.png)
+		- ![kop7thb3.png](./kop7thb3.png)
 		- 7w 3rd song
 			- sakuzyo mai original
 			- 7thsense sequal

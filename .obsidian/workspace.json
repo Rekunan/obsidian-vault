@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seiyuu.md",
+                "file": "YouTube Ideas/takerun ends yoshiki's 5winstreak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "seiyuu"
+              "title": "takerun ends yoshiki's 5winstreak"
             }
           }
         ]
@@ -150,34 +150,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "85242c3ba63cc99e",
   "lastOpenFiles": [
+    "YouTube Ideas/maimai underground info idk.md",
+    "YouTube Ideas/kop7thb3.png",
+    "YouTube Ideas/kop7thb2.png",
+    "YouTube Ideas/kop7thb1.png",
+    "YouTube Ideas/kop7thq.png",
+    "YouTube Ideas/kop6thb3.png",
+    "YouTube Ideas/kop6thb2.png",
+    "YouTube Ideas/kop6thb1.png",
+    "YouTube Ideas/kop6thq.png",
+    "YouTube Ideas/kop5thb3.png",
+    "YouTube Ideas/kop5thb2.png",
+    "YouTube Ideas/takerun ends yoshiki's 5winstreak.md",
+    "seiyuu.md",
     "physics-pp.md",
     "README.md",
-    "YouTube Ideas/maimai underground info idk.md",
-    "YouTube Ideas/takerun ends yoshiki's 5winstreak.md",
-    "YouTube Ideas/Pasted image 20260511053940.png",
-    "YouTube Ideas/Pasted image 20260511060314.png",
-    "YouTube Ideas/Pasted image 20260511062132.png",
-    "YouTube Ideas/Pasted image 20260511062127.png",
-    "Pasted image 20260511062059.png",
-    "YouTube Ideas/Pasted image 20260511062056.png",
-    "YouTube Ideas/Pasted image 20260511061950.png",
-    "YouTube Ideas/Pasted image 20260511061559.png",
-    "YouTube Ideas/Pasted image 20260511061552.png",
-    "YouTube Ideas/Pasted image 20260511061545.png",
     "release order/toaru.md",
-    "seiyuu.md",
     "release order/youjo senki.md",
     "YouTube Ideas",
     "release order"
