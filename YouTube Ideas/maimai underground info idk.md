@@ -1,0 +1,5 @@
+- the doubletap at the end screen
+- note animation inside scroll speed setting
+- sensor skipping
+- >50% touch rule
+- swipe sensors fast enough to stay activated

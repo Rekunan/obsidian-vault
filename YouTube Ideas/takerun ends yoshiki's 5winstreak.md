@@ -1,0 +1,107 @@
+- KOP2019:
+	- first ever
+	- jp only
+	- base dx
+	- qual:
+		- application period: September 18, 2019 (Wed) 12:00 - October 29, 2019 (Tue) 22:59
+		- September 27, 2019 (Fri) 10:00 AM – October 29, 2019 (Tue) 11:59 PM
+		- regional divisions
+			- some with more than others
+	- area tournament:
+		- November 9, 2019 (Sat) – January 12, 2020 (Sun)
+		- Results:![[Pasted image 20260511053940.png]]
+	- final tournament/knockout stage:
+		- Results:![[Pasted image 20260511055904.png]]
+		- Valsqotch 3rd song
+			- lowest scores of whole bracket
+		- yoshi loss (would've won w/o surprise)
+- KOP2020:
+	- yay chuni & geki
+	- knockout stage:
+		- Results: ![[Pasted image 20260511060057.png]]
+		- no sightread/surprise
+		- start of yoshi 5winstreak
+- KOP3rd:
+	- qual:
+		- 3 songs
+		- top8
+		- Results:![[Pasted image 20260511060314.png]]
+		- everyone 303 lmao
+		- date tiebreaker
+	- knockout:
+		- ![[Pasted image 20260511060546.png]]
+		- ![[Pasted image 20260511060621.png]]
+		- ![[Pasted image 20260511060507.png]]
+		- gigantomahkia 3rd song
+			- scores not as bad as valsqotch
+		- yoshi wins all 3
+- KOP4th:
+	- qual:
+		- 14+'s yay
+		- ![[Pasted image 20260511060806.png]]
+		- yoshi only 303
+	- knockout:
+		- ![[Pasted image 20260511060851.png]]
+		- ![[Pasted image 20260511060904.png]]
+		- ![[Pasted image 20260511060913.png]]
+		- virtus 3rd song
+			- hiro!!!
+			- hello easy 14+
+			- scores better than prev sightreads
+		- some back and forth, but yoshi performs b2b
+- KOP5th:
+	- qual:
+		- all 14+'s
+		- ![[Pasted image 20260511061016.png]]
+		- no 303, but yoshi still 1st
+	- knockout:
+		- ![[Pasted image 20260511061044.png]]
+		- ![[Pasted image 20260511061052.png]]
+		- ![[Pasted image 20260511061058.png]]
+		- remiria & yoshi both "picked" latent (doubt)
+		- staff pick panpara
+		- tsunagite 3rd song
+			- first 15 since panpara
+			- first DX 15
+			- hello rintaro soma
+			- scores are so fucking low (lowest b4 was yoshi's 99.0075 on valsqotch lmao)
+		- remi was gonna win, but then fumbled tuna
+			- similar to kop2019
+- KOP6th:
+	- qual:
+		- ![[Pasted image 20260511061500.png]]
+		- Divide et impera!
+			- alea sequal (maybe was supposed to be last year's?)
+	- bracket:
+		- ![[Pasted image 20260511061545.png]]
+		- ![[Pasted image 20260511061552.png]]
+		- ![[Pasted image 20260511061559.png]]
+		- chuten 3rd song
+			- kdx song lole
+			- low bpm gg
+			- scores rly low again (bs to sightread lmao)
+			- 14.9 :sakithonk:
+		- yoshi wins all 3 just like kop3rd
+- KOP7th:
+	- qual:
+		- ![[Pasted image 20260511061950.png]]
+		- first 303's since kop4th, which had 2 14+'s and 1 14
+		- remi 1st again
+	- bracket:
+		- ![[Pasted image 20260511062056.png]]
+		- ![[Pasted image 20260511062127.png]]
+		- ![[Pasted image 20260511062132.png]]
+		- 7w 3rd song
+			- sakuzyo mai original
+			- 7thsense sequal
+			- 14.9
+			- scores actually p good
+		- yoshi wins first 2 but fumbles 7w
+			- just like kop2019 :cinema:
+		- takerun ends yoshiki's 5winstreak
+			- unc :muscle:
+			- 2nd kop win
+			- 2nd player to have multiple kop wins
+			- 1st player to have them in different games (got geki in kop3rd)
+			- chuni when :eyes: (even kohad asked)
+				- good luck beating str lmao :place_of_worship:
